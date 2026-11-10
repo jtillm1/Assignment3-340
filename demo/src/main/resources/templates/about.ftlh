@@ -16,7 +16,6 @@
         profile, or remove one that no longer belongs.
       </p>
       <p>
-        <!-- TODO: replace with your own Assignment 2 content: why you picked these characters. -->
         This collection started as a static website for a class project and grew into a
         full web application backed by a database.
       </p>
